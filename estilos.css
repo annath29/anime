@@ -1,17 +1,17 @@
 .menu{
     background-color: #efb810;
 }
-
-.fuente{
-    color: red;
+/* estilos del cambio */
+.color_letra
+{
+    color: white;
 }
-
-.alineado{
-    text-align: center;
-    font-size: 38px;
+.color_titulo
+{
+    color: #323C8D;
 }
-.color{
-    background-color: blue;
+.color_menu{
+    background-color: #323C8D;
 }
 
 .fondo{
